@@ -19,6 +19,7 @@ type SCardProps = {
     info: string;
 };
 
+
 export function HCard({ name, src, value, up, per, info, color }: HCardProps) {
 
     return (

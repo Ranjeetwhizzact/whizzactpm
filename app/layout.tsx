@@ -36,7 +36,7 @@ export default function RootLayout({
   return (
     <html lang="en" className={nunitoSans.variable}>
       <body
-        className="font-sans"
+        className="font-sans max-w-[1440px] w-full mx-auto max-h-[100vh] h-full hx-auto "
       >
         <div className="flex">
           <Sidebar />

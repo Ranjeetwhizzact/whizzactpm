@@ -81,7 +81,7 @@ export default function Dashboard() {
 
     const categories = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'];
     return (
-        <div className="p-[30px] h-[calc(100vh-70px)] overflow-x-scroll bg-[#f0f3f5] w-full text-black">
+        <div className="p-[30px] h-full overflow-x-scrolls bg-[#f0f3f5] w-full text-black">
             <div className="md:flex justify-between items-center">
                 <h2 className="font-[700] text-[32px]">Dashboard</h2>
 
