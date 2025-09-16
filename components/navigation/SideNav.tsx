@@ -20,7 +20,7 @@ export default function Sidebar() {
 
     return (
         <div
-            className={`h-screen transition-all duration-300 ${isOpen ? "w-[85px]" : "w-[200px]"
+            className={`bg-white text-black h-screen transition-all duration-300 ${isOpen ? "w-[85px]" : "w-[200px]"
                 }`}
         >
             <div className="log flex items-center justify-center h-[70px]">

@@ -24,7 +24,7 @@ export function HCard({ name, src, value, up, per, info, color }: HCardProps) {
     return (
         <div
             style={{ boxShadow: `-5px -5px 4px 0px ${color}` }}
-            className="hcard  pt-[30px] px-[22px] rounded-[14px] h-[160px] bg-white
+            className="hcard  pt-[30px] px-[22px] rounded-[14px] h-[160px] bg-white text-black
         ">
             <div className="flex justify-between">
 

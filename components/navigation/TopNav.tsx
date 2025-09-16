@@ -15,7 +15,7 @@ export default function TopBar() {
     }
 
     return (
-        <div className="h-[70px] flex items-center justify-between px-[30px]">
+        <div className="bg-white text-black h-[70px] flex items-center justify-between px-[30px]">
 
             <div className="right flex items-center gap-4">
 
