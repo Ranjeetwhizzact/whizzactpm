@@ -12,7 +12,7 @@ export default function Sidebar() {
         { id: 2, src: "/img/holdings.png", name: "Holding", link: "holding" },
         { id: 3, src: "/img/market_depth.png", name: "Market Depth", link: "market-depth" },
         { id: 4, src: "/img/portfolio.png", name: "Portfolio", link: "portfolio" },
-        { id: 5, src: "/img/trading.png", name: "Trading" },
+        { id: 5, src: "/img/trading.png", name: "Trading" , link: "trading/trade" },
         { id: 6, src: "/img/clock.png", name: "Schedular", link: "schedular" },
         { id: 7, src: "/img/setting.png", name: "Setting", link: "setting" },
         { id: 8, src: "/img/turn-off.png", name: "Logout", link: "logout" },

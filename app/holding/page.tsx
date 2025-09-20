@@ -39,7 +39,7 @@ export default function Holding() {
 
 
     return (
-        <div className="text-black p-[30px] bg-[#f0f3f5] w-full">
+        <div className="h-[calc(100vh-70px)] overflow-x-scroll p-[30px] text-black bg-[#f0f3f5] w-full">
             <div>
                 <h2 className="font-[700] text-[32px]">Holding(20)</h2>
             </div>
